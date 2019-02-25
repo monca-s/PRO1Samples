@@ -26,3 +26,11 @@ hs_err_pid*
 .idea/
 *.iml
 out/
+
+# Eclipse files
+.settings/
+.project
+.classpath
+
+# Other
+.DS_Store
